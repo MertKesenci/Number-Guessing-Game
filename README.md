@@ -1,0 +1,2 @@
+# **Number Guessing Game**
+I did a basic number guessing game utilizing Spyder IDE. The boundaries of the game can be specified by the user and also number of total tries show up at the end of the game. 
